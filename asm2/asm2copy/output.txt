@@ -1,0 +1,4 @@
+Phoenix_Flames ,total points per game:118.8
+Galaxy_Guardians ,total points per game:87.9
+Thunder_Strikers ,total points per game:85.8
+Blizzard_Bears ,total points per game:57.7

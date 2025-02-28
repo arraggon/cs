@@ -1,0 +1,8 @@
+Team Name: Blizzard_Bears Owner: Michael_Davis Market Value: 6200000 Number of Players: 3 Total PPG: 57.7 
+Player Name: Ethan_Davis Age: 31 Nationality: USA PPG: 26.8 FG: 0.74
+Player Name: Sophia_Anderson Age: 27 Nationality: Sweden PPG: 14.6 FG: 0.4
+Player Name: Andreas_Larsson Age: 29 Nationality: Sweden PPG: 16.3 FG: 0.48
+Thunder_Strikers: Nathan_Turner 15.7
+Phoenix_Flames: Liam_Wilson 21.2
+Blizzard_Bears: Andreas_Larsson 16.3
+Galaxy_Guardians: Dame_Dolla 32.1
